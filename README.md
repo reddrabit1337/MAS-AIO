@@ -32,7 +32,7 @@ Use **WinRAR** or **7-Zip** to extract the contents.
 
 > ✅ **IMPORTANT:** To start the MAS AIO system, you **must run `setup.bat` as administrator**.
 
-1. Right-click on `setup.bat`
+1. Right-click on `setup.ps1`
 2. Choose **“Run as administrator”**
 3. The MAS activation menu will open
 4. Follow the on-screen instructions to:
